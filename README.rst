@@ -1,3 +1,6 @@
+Done as a project for 5430 Software engineering course taken on Fall 2024 @ UNT.
+Had to extend and add features to an open-source project.
+
 delitoolkit
 ===========
 
